@@ -48,6 +48,7 @@ public class Main {
 			
 		}
 		sc.close();
+		System.out.println("Teste Commit - Git/GitHub");
 	}
 
 }
